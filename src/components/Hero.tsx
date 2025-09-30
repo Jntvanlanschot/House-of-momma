@@ -38,10 +38,6 @@ export default function Hero() {
           </span>
         </h1>
 
-        {/* Subtitle */}
-        <p className="text-lg sm:text-xl lg:text-2xl font-extralight mb-16 text-white/80 tracking-wider">
-          House of Momma × Primal
-        </p>
 
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
