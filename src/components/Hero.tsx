@@ -32,10 +32,9 @@ export default function Hero() {
 
         {/* Main Headline */}
         <h1 className="text-5xl sm:text-6xl lg:text-7xl xl:text-8xl font-thin leading-[0.9] mb-8 tracking-tight">
-          <span className="block text-white/95">Sportieve</span>
-          <span className="block text-white font-light">Fitcations</span>
+          <span className="block text-white/95">House of Momma</span>
           <span className="block text-white/90 text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-extralight mt-4">
-            op exotische locaties
+            Boek jouw Fitcation!
           </span>
         </h1>
 
