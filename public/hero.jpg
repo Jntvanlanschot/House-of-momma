@@ -1,0 +1,1321 @@
+<!DOCTYPE html>
+<!-- saved from url=(0055)https://99designs.nl/profiles/malzdesign/designs/673429 -->
+<html lang="nl-nl" class=" supports flexbox flexboxlegacy csstransforms3d" data-media-query-breakpoint="large" style="scroll-behavior: auto !important;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">.turbo-progress-bar {
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: #0076ff;
+  z-index: 2147483647;
+  transition:
+    width 300ms ease-out,
+    opacity 150ms 150ms ease-in;
+  transform: translate3d(0, 0, 0);
+}
+</style>
+
+    <!-- Use latest IE rendering mode, or Chrome Frame if available, this must go first -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    
+
+    <!-- Facebook open graph settings -->
+<meta property="og:title" content="Landing Page for Yacht Rental Service | 99designs">
+<meta property="og:description" content="Created this eye-catching landing page with bold imagery and nice colors into a contest for a Yacht Rental Service. ">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="99designs">
+<meta property="og:url" content="https://99designs.nl/profiles/malzdesign/designs/673429">
+<meta property="fb:app_id" content="51230776953">
+
+<meta property="og:image" content="https://images-workbench.99static.com/oLhrkjhA1WGxx9XTbG2-D4o-zik=/0x0:1920x1920/fit-in/500x500/filters:fill(white,true)/99designs-contests-attachments/75/75186/attachment_75186042">
+<meta property="og:image:secure_url" content="https://images-workbench.99static.com/oLhrkjhA1WGxx9XTbG2-D4o-zik=/0x0:1920x1920/fit-in/500x500/filters:fill(white,true)/99designs-contests-attachments/75/75186/attachment_75186042">
+<meta name="twitter:image" content="https://images-workbench.99static.com/oLhrkjhA1WGxx9XTbG2-D4o-zik=/0x0:1920x1920/fit-in/500x500/filters:fill(white,true)/99designs-contests-attachments/75/75186/attachment_75186042">
+<link rel="image_src" href="https://images-workbench.99static.com/oLhrkjhA1WGxx9XTbG2-D4o-zik=/0x0:1920x1920/fit-in/500x500/filters:fill(white,true)/99designs-contests-attachments/75/75186/attachment_75186042">
+<link rel="mask-icon" href="https://assets.99static.com/workbench/assets/asimov/images/99d-logomark-325f2bc6ad.svg" color="#fe5f50">
+<link rel="apple-touch-icon" href="https://assets.99static.com/workbench/assets/asimov/images/touch-icon-iphone-ad589ffee6.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://assets.99static.com/workbench/assets/asimov/images/touch-icon-ipad-2130171e90.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://assets.99static.com/workbench/assets/asimov/images/touch-icon-iphone-retina-09fe3d06a3.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://assets.99static.com/workbench/assets/asimov/images/touch-icon-ipad-retina-3417d49ce7.png">
+
+<!-- Twitter card settings -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@99designs">
+<meta name="twitter:title" content="Landing Page for Yacht Rental Service | 99designs">
+<meta name="twitter:description" content="Created this eye-catching landing page with bold imagery and nice colors into a contest for a Yacht Rental Service. ">
+
+<meta name="slack-app-id" content="A2D02016F">
+
+      <!-- no canonical -->
+
+    <link rel="alternate" hreflang="en-US" href="https://99designs.com/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="es-US" href="https://es.99designs.com/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-AU" href="https://99designs.com.au/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-CA" href="https://99designs.ca/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-GB" href="https://99designs.co.uk/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-IE" href="https://99designs.ie/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="de-DE" href="https://99designs.de/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-DE" href="https://en.99designs.de/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-DK" href="https://99designs.dk/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="fr-FR" href="https://99designs.fr/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-FR" href="https://en.99designs.fr/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="it-IT" href="https://99designs.it/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-IT" href="https://en.99designs.it/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-NO" href="https://99designs.no/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-NL" href="https://en.99designs.nl/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="pt-BR" href="https://99designs.com.br/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-BR" href="https://en.99designs.com.br/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="pt-PT" href="https://99designs.pt/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-PT" href="https://en.99designs.pt/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="es-CL" href="https://99designs.cl/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-CL" href="https://en.99designs.cl/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="es-CO" href="https://99designs.com.co/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-CO" href="https://en.99designs.com.co/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="es-MX" href="https://99designs.com.mx/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-MX" href="https://en.99designs.com.mx/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="es-ES" href="https://99designs.es/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-ES" href="https://en.99designs.es/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="ja-JP" href="https://99designs.jp/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-JP" href="https://en.99designs.jp/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="de-CH" href="https://99designs.ch/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="it-CH" href="https://it.99designs.ch/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="fr-CH" href="https://fr.99designs.ch/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-CH" href="https://en.99designs.ch/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-HK" href="https://99designs.hk/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-SG" href="https://99designs.com.sg/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="nl-BE" href="https://99designs.be/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="fr-BE" href="https://fr.99designs.be/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-BE" href="https://en.99designs.be/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="de-AT" href="https://99designs.at/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-AT" href="https://en.99designs.at/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-US" href="https://designview.io/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="da-DK" href="https://vistaprint.dk/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="de-AT" href="https://vistaprint.at/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="de-CH" href="https://vistaprint.ch/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="de-DE" href="https://vistaprint.de/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-AU" href="https://vistaprint.com.au/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-CA" href="https://vistaprint.ca/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-GB" href="https://vistaprint.co.uk/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-IE" href="https://vistaprint.ie/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-IN" href="https://vistaprint.in/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-NZ" href="https://vistaprint.co.nz/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-PT" href="https://vistaprint.pt/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-SG" href="https://vistaprint.sg/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="en-US" href="https://vistaprint.com/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="es-ES" href="https://vistaprint.es/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="es-US" href="https://vistaprint.com/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="fi-FI" href="https://vistaprint.fi/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="fr-BE" href="https://vistaprint.be/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="fr-CA" href="https://vistaprint.ca/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="fr-CH" href="https://vistaprint.ch/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="fr-FR" href="https://vistaprint.fr/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="it-CH" href="https://vistaprint.ch/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="it-IT" href="https://vistaprint.it/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="ja-JP" href="https://vistaprint.jp/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="nb-NO" href="https://vistaprint.no/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="nl-BE" href="https://vistaprint.ne/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="nl-NL" href="https://vistaprint.nl/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="pt-PT" href="https://vistaprint.pt/profiles/malzdesign/designs/673429">
+    <link rel="alternate" hreflang="sv-SE" href="https://vistaprint.se/profiles/malzdesign/designs/673429">
+
+
+    <!-- Device settings -->
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- Use device width, allow pinch+zoom -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Mobile IE ClearType -->
+    <meta http-equiv="cleartype" content="on">
+
+    <!-- Specifying Sub-pixel Metrics in IE's Legacy Modes -->
+    <!-- http://www.webappers.com/2012/12/25/how-to-correct-legacy-document-problems-with-fonts/ -->
+    <meta http-equiv="X-UA-TextLayoutMetrics" content="natural">
+
+    <!-- Title for Web Clips on iOS devices -->
+    <meta name="apple-mobile-web-app-title" content="99designs">
+
+    <title>Landing Page for Yacht Rental Service | 99designs</title>
+
+    
+
+    <meta name="description" content="Created this eye-catching landing page with bold imagery and nice colors into a contest for a Yacht Rental Service. ">
+    <meta name="keywords" content="crowdsource, graphic design, design, contests, design contests">
+    <meta name="author" content="99designs">
+        <meta name="robots" content="noindex">
+
+
+    <link rel="icon" sizes="16x16 32x32" href="https://assets.99static.com/workbench/assets/asimov/images/favicon-88f58c10e9.ico">
+
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="nKtOwfkC9P48vCA2j22iBfoIdzW2Y1gRrtxnic0k11iCF0um2HMrUONf40rIxx8Cky0HjQftUcz8G8cBSiM70g">
+
+    <link rel="stylesheet" media="screen" href="./Landing page voorbeeld_files/layout-ef6a55c67f.css">
+    <link rel="stylesheet" media="screen" href="./Landing page voorbeeld_files/fonts-db6c9da067.css">
+        <link rel="stylesheet" media="screen" href="./Landing page voorbeeld_files/design-details-368acb4255.css">
+    <link rel="stylesheet" media="screen" href="./Landing page voorbeeld_files/profiles-designs-ddo-ba54c9d6f8.css">
+
+
+    <script type="text/javascript" async="" src="./Landing page voorbeeld_files/js"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/identify_4e6f0095.js"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/main.MTE0NjY3MDc0OQ.js" data-id="CE8LLDBC77U8PGLVCNBG"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/js(1)"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/events.js"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/quantum-vistaprint.js"></script><script async="" src="./Landing page voorbeeld_files/A127343-e446-4cc0-b3c2-5945762c769a1.js"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/insight.min.js"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/bat.js"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/analytics.js"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/js(2)"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/js(3)"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/js(4)"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/insight.min.js"></script><script src="./Landing page voorbeeld_files/1470486463213687" async=""></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/fbevents.js"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/gtm.js"></script><script type="text/javascript" src="./Landing page voorbeeld_files/commons.a61d7bea37d2de5d4b69.js.gz" async="" status="loaded"></script><script type="text/javascript" src="./Landing page voorbeeld_files/linkedin-insight-tag.dynamic.js.gz" async="" status="loaded"></script><script type="text/javascript" src="./Landing page voorbeeld_files/facebook-pixel.dynamic.js.gz" async="" status="loaded"></script><script type="text/javascript" src="./Landing page voorbeeld_files/google-tag-manager.dynamic.js.gz" async="" status="loaded"></script><script type="text/javascript" async="" src="./Landing page voorbeeld_files/analytics.min.js"></script><script src="./Landing page voorbeeld_files/accounts.js"></script>
+
+        <script src="./Landing page voorbeeld_files/bugsnag-3.min.js" data-apikey="0dc2015cfbcfeb7cde28f8a91fc7850c"></script>
+        <script>
+        </script>
+<script src="./Landing page voorbeeld_files/28056532.js" type="text/javascript" async="" data-ueto="ueto_d674c7bef4"></script><style type="text/css" id="aws-entire-capture">html::-webkit-scrollbar,body::-webkit-scrollbar, body::-webkit-scrollbar:horizontal, body::-webkit-scrollbar:vertical{width: 0 !important; height: 0 !important}</style><style>html::-webkit-scrollbar, body::-webkit-scrollbar{ width: 0 !important; height: 0 !important }</style><style>::-webkit-scrollbar-button { width: 0 !important; height: 0 !important; }
+::-webkit-scrollbar-corner { background-color: transparent !important; border: 0 !important }
+::-webkit-scrollbar-thumb { background-color: transparent !important; box-shadow: none !important }</style><style>html,body {scrollbar-color:unset; scrollbar-width:none }</style><style>* {
+          transition: none !important;
+          transition-delay: 0s !important;
+          animation-duration: 0s !important;
+          animation-delay: 0s !important;
+        }</style><style>[stickyclass="sticky"], ess-particle-table [role="row"], [acxscrollhost] .header-sticky-container  { transform: translate(0px, 0px) !important }</style><style>.sqs-layout .sqs-row .sqs-block-content figure { opacity: 1 !important; }</style></head>
+
+
+    <body class="sl_notranslate" data-fixed-viewport-active="true">
+            <script>
+        var dataLayer = dataLayer || [];
+        dataLayer.push({"isAdmin":false,"isDesigner":false,"isCustomer":false,"affiliateCode":null});
+    </script>
+
+        
+        
+
+
+
+
+
+<script id="ddo-app-data" type="text/json">
+    {
+        "initData": {
+            "activeUser": {},
+            "intlMessages": {"show_more":"Meer","back_to_overview":"Terug naar overzicht","delete_action":"Verwijder","deleted_status":"Verwijderd","discover_more_designs":"Ontdek meer ontwerpen","comment_action_timeout":"Opmerking is niet langer aan te passen. Laat een nieuwe reactie achter.","comment_cancel":"Annuleer","comment_sending":"Versturen…","comment_deleting":"Verwijderen…","comment_error":"Fout","comment_is_edited":"bijgewerkt","comment_deleted":"Reactie verwijderd","comment_form_placeholder":"Laat een opmerking achter","main_cta_invite":"Nodig de designer uit voor werk ","main_cta_unavailable":"Niet beschikbaar voor werk","main_cta_edit":"Bewerk ontwerp","main_cta_see_profile":"Bekijk portfolio","designed_by_user":"door {user}","see_full_portfolio":"Bekijk volledig portfolio","see_other_designs":"Bekijk andere ontwerpen","sketches_loading":"Bezig met laden...","sketches_saving":"Bezig met opslaan...","sketches_saved":"Opgeslagen","sketches_error":"Fout","share":"Deel","facebook":"Facebook","twitter":"Twitter","pinterest":"Pinterest","linkedin":"LinkedIn","zoom_out_tooltip":"Uitzoomen (-)","send_message_tooltip":"Stuur reactie (ctrl / cmd + enter)","zoom_in_tooltip":"Inzoomen (+)","enter_fullscreen_tooltip":"Presentatievoorstelling, volledig scherm","exit_fullscreen_tooltip":"Sluit de presentatiemodus (ESC)","close_ddo_tooltip":"Sluit ontwerpweergave (ESC)","pagination_previous_tooltip":"Vorige (linker pijl)","pagination_next_tooltip":"Volgende (rechter pijl)","set_favorite_designer":"Voeg {displayName) toe aan favorieten","unset_favorite_designer":"Verwijderen {displayName} uit favorieten"},
+            "designCollection": {"designPageOffset":0,"totalDesignCount":1,"_embedded":{"designs":[{"design_id":673429,"name":"Landing Page for Yacht Rental Service","createdAt":"2016-08-29T09:26:36.000Z","height":3751,"width":1920,"description":"\u003cp\u003eCreated this eye-catching landing page with bold imagery and nice colors into a contest for a Yacht Rental Service. \u003c/p\u003e","industry_key":"travel","projectDesignId":null,"previewUrl":"https://images-workbench.99static.com/J4MgqZHCEPyD94j0QWi2o2uQY5M=/99designs-contests-attachments/75/75186/attachment_75186042","likedByUser":false,"likeCount":27,"marketingCtaButton":{"text":"Bekijk meer van deze wedstrijd","url":"/web-design/contests/online-sailing-boat-booking-agency-looking-world-class-652054"},"showUrl":"https://99designs.nl/profiles/malzdesign/designs/673429","dataFavoriteDesignerUrl":"https://99designs.nl/profiles/xhr/favorite-designers/1382751","shareData":[{"name":"facebook","iconVariation":"icon--facebook-1","shareUrl":"https://www.facebook.com/sharer.php?u=https%3A%2F%2F99designs.nl%2Fprofiles%2Fmalzdesign%2Fdesigns%2F673429"},{"name":"twitter","iconVariation":"icon--twitter-1","shareUrl":"https://twitter.com/share?url=https%3A%2F%2F99designs.nl%2Fprofiles%2Fmalzdesign%2Fdesigns%2F673429"},{"name":"pinterest","iconVariation":"icon--pinterest-1","shareUrl":"https://pinterest.com/pin/create/link/?url=https%3A%2F%2F99designs.nl%2Fprofiles%2Fmalzdesign%2Fdesigns%2F673429"},{"name":"linkedin","iconVariation":"icon--linkedin-3","shareUrl":"https://www.linkedin.com/shareArticle?url=https%3A%2F%2F99designs.nl%2Fprofiles%2Fmalzdesign%2Fdesigns%2F673429"}],"categoryEntryInfo":"Webdesign wedstrijdinzending","tags":[{"name":"Webdesign","href":"/discover?category=web-design"},{"name":"Reis- en hotelwezen","href":"/discover?industry=travel"},{"name":"travel","href":"/discover?tags=travel"},{"name":"landing-page","href":"/discover?tags=landing-page"},{"name":"rental","href":"/discover?tags=rental"},{"name":"boat","href":"/discover?tags=boat"},{"name":"yacht","href":"/discover?tags=yacht"},{"name":"boating","href":"/discover?tags=boating"},{"name":"charter","href":"/discover?tags=charter"},{"name":"blue-green","href":"/discover?tags=blue-green"},{"name":"rental-company","href":"/discover?tags=rental-company"},{"name":"rental-boat","href":"/discover?tags=rental-boat"},{"name":"Adobe Photoshop CC","href":"/discover?tags=Adobe+Photoshop+CC"}],"currentPageIndex":0,"login_or_signup":"\u003ca class=\"link\" href='/login?from=https%3A%2F%2F99designs.nl%2Fprofiles%2Fmalzdesign%2Fdesigns%2F673429'\u003eLog in\u003c/a\u003e of \u003ca class=\"link\" href='/signup?from=https%3A%2F%2F99designs.nl%2Fprofiles%2Fmalzdesign%2Fdesigns%2F673429'\u003eSign Up\u003c/a\u003e om uw favoriete ontwerpen op te slaan\n","_embedded":{"creator":{"id":1382751,"userId":1382751,"name":"malzi.","avatarUrl":"/avatars/users/1382751/48","showUrl":"https://99designs.nl/profiles/malzdesign","isFavorite":false},"permission":{"canView":true,"canViewComments":false,"canComment":false,"canAnnotate":false,"canFavorite":false,"canLike":false,"canInvite":true,"canEdit":false,"userIdentified":false,"designerUnavailable":false,"canSketch":false}},"_links":{"self":{"href":"https://99designs.nl/profiles/malzdesign/xhr/designs/673429"},"contestUrl":{"href":"/web-design/contests/online-sailing-boat-booking-agency-looking-world-class-652054"},"inviteToWorkUrl":{"href":"https://99designs.nl/profiles/malzdesign/invites"},"profileUrl":{"href":"https://99designs.nl/profiles/malzdesign"},"likeDesignUrl":{"href":"https://99designs.nl/profiles/malzdesign/designs/673429/design_like"},"editDesignUrl":{"href":"https://99designs.nl/profiles/malzdesign/designs/673429/edit"},"lastSeenTimeUrl":{"href":"https://99designs.nl/profiles/xhr/last-seen-time/1382751"},"lastSeenTimesUrl":{"href":"https://99designs.nl/profiles/xhr/last-seen-time/users?ids=1382751"},"designLikesUrl":{"href":"https://99designs.nl/profiles/1382751/designs/673429/xhr/design_likes/1"}}}]},"_links":{"currentPageUrl":{"href":null},"designPageUrls":[{"href":null}]}},
+            "designId": "673429"
+        }
+    }
+</script>
+
+<div id="design-details-app"><div id="design-details-annotations-anchor" style="height: 100%; width: 100%; position: absolute; left: 0px; top: 0px;"><div class="fullscreen-overlay fullscreen-overlay--scrollable-small-screen" data-fullscreen-overlay-active="true"><div><div role="button" class="fullscreen-overlay__content"><div class="fullscreen-frame"><div class="fullscreen-frame__main"><div class="fullscreen-main fullscreen-main--has-header"><div class="fullscreen-main__header"><div class="fullscreen-header fullscreen-header--design-details"><div class="fullscreen-header__item fullscreen-header__item--design-details"><div class="logo-99designs"><a href="https://99designs.nl/" class="logo-99designs__logo">99designs</a></div></div><div class="fullscreen-header__item fullscreen-header__item--design-details"><div class="button-list button-list--spacious"><div class="button-list__item"><button type="button" class="icon-button icon-button--darker icon-button--on-white" data-disabled="false" title="Inzoomen (+)"><span class="icon icon--large icon--zoom-in-1"></span></button></div><div class="button-list__item"><button type="button" class="icon-button icon-button--darker icon-button--on-white" data-disabled="true" title="Uitzoomen (-)"><span class="icon icon--large icon--zoom-out-1"></span></button></div><div class="button-list__item"><button type="button" class="icon-button icon-button--darker icon-button--on-white" data-disabled="false" title="Presentatievoorstelling, volledig scherm"><span class="icon icon--large icon--maximize-1"></span></button></div></div></div></div></div><div class="fullscreen-main__body fullscreen-main__body--design-details"><div><iframe title="sizer" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; margin: 0px; border: none; opacity: 0; visibility: hidden; pointer-events: none;" src="./Landing page voorbeeld_files/saved_resource.html"></iframe><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; margin: 0px; border: none; overflow: hidden;"><div data-input-handler="true" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; cursor: default;"><div style="position: relative; width: 1450px; height: 896px;"><img alt="" src="./Landing page voorbeeld_files/attachment_75186042" style="background-color: rgb(243, 242, 240); position: absolute; left: 495.685px; top: 0px; width: 458.63px; height: 896px;"></div></div></div></div></div></div></div><div class="fullscreen-frame__sidebar"><div class="fullscreen-sidebar"><div class="fullscreen-sidebar__inner"><div class="fullscreen-sidebar__header"><div class="sidebar-header"><div><div class="sidebar-header__section"><div class="sidebar-header__heading"><div class="sidebar-header__heading__text"><div> Landing Page for Yacht Rental Service </div></div></div><div class="sidebar-header__sub-heading"><div class="user user--padded"><a class="user__avatar"><span class="avatar avatar--small"><img alt="" role="presentation" class="avatar__image" src="./Landing page voorbeeld_files/48"><div class="avatar__indicator"></div></span></a><span class="user__display-name"><span>door <a class="display-name display-name--link" href="https://99designs.nl/profiles/malzdesign">malzi.</a></span></span></div><a href="https://99designs.nl/web-design/contests/online-sailing-boat-booking-agency-looking-world-class-652054" class="link">Webdesign wedstrijdinzending</a></div><div class="section"><div class="button-group button-group--stacked"><div class="button-group__item"><span><a href="https://99designs.nl/profiles/1382751/invites" type="submit" class="button button--primary button--fluid button--jumbo"><span class="button__inner"><span class="button__label">Nodig de designer uit voor werk </span></span></a></span></div><div class="button-group__item"><span><a href="https://99designs.nl/profiles/1382751" type="submit" class="button button--marketing-secondary button--chameleon button--fluid button--jumbo"><span class="button__inner"><span class="button__label">Bekijk portfolio</span></span></a></span></div></div></div><div class="button-group button-group--giant"><div class="button-group__item"><span><span class="hover-card-anchor" id="hoverable_9"><span class="hover-card-anchor" aria-haspopup="true" aria-expanded="false"><div class="like-button"><div class="like-button__button"><button type="button" class="icon-button icon-button--soft-toggle" data-disabled="false"><span class="icon icon--like-1"></span></button></div><div class="like-button__count">27</div></div></span></span></span></div><div class="button-group__item"><span class="hover-card-anchor" id="hoverable_10"><span class="hover-card-anchor" aria-haspopup="true" aria-expanded="false"><span><button class="icon-button icon-button--on-white icon-button--offset-right"><span class="icon icon--share-1"></span></button></span><span><button class="button button--link">Deel</button></span></span></span></div></div></div></div><div><div class="sidebar-body"><span class="ddo__made-on-99-shield">Ontworpen op 99designs van Vista</span></div></div></div></div><div class="fullscreen-sidebar__body"><div class="fullscreen-sidebar__body__inner" id="fullscreenSidebar"><div><div class="sidebar-body"><div><div><p>Created this eye-catching landing page with bold imagery and nice colors into a contest for a Yacht Rental Service. </p></div><div class="fullscreen__sidebar__tags"><div class="pill-group"><div class="pill-group__item"><span><a href="https://99designs.nl/discover?category=web-design"><div class="pill pill--tag">Webdesign</div></a></span></div><div class="pill-group__item"><span><a href="https://99designs.nl/discover?industry=travel"><div class="pill pill--tag">Reis- en hotelwezen</div></a></span></div><div class="pill-group__item"><span><a href="https://99designs.nl/discover?tags=travel"><div class="pill pill--tag">travel</div></a></span></div><div class="pill-group__item"><span><a href="https://99designs.nl/discover?tags=landing-page"><div class="pill pill--tag">landing-page</div></a></span></div><div class="pill-group__item"><span><a href="https://99designs.nl/discover?tags=rental"><div class="pill pill--tag">rental</div></a></span></div><span><div class="pill-group__item"><span class="pill pill--tag pill--grey300"><span><button type="button" class="pill__button">+ 8</button></span></span></div></span></div></div></div><span><a href="https://99designs.nl/web-design/contests/online-sailing-boat-booking-agency-looking-world-class-652054" type="submit" class="button button--fluid button--secondary"><span class="button__inner"><span class="button__label">Bekijk meer van deze wedstrijd</span></span></a></span></div></div></div></div></div></div></div></div></div></div></div></div></div>
+
+        
+<script>
+    if (!window.Intl) {
+        document.write('<script src="https://assets.99static.com/shared/js/Intl.min-856e66ee99.js"><\/script>');
+    }
+</script>
+
+<script src="./Landing page voorbeeld_files/common-libs-a9f9117419da48232b54.js"></script>
+<script src="./Landing page voorbeeld_files/nl-e7dfce2940a2e8c589d7.js"></script>
+
+
+<script src="./Landing page voorbeeld_files/base-f660566f69e1279dec2c.js" data-turbo-suppress-warning=""></script>
+
+    <script src="./Landing page voorbeeld_files/profiles-designs-2e66910f42111c20a2e8.js" data-turbo-suppress-warning=""></script>
+    <script src="./Landing page voorbeeld_files/standalone-ddo-9a899f4f04fc5ac2f72a.js" data-turbo-suppress-warning=""></script>
+
+
+
+<script>
+    /*! modernizr 3.3.1 (Custom Build) | MIT *
+     * https://modernizr.com/download/?-csstransforms3d-flexbox-flexboxlegacy-setclasses !*/
+    !function(e,n,t){function r(e,n){return typeof e===n}function s(){var e,n,t,s,o,i,a;for(var f in x)if(x.hasOwnProperty(f)){if(e=[],n=x[f],n.name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(t=0;t<n.options.aliases.length;t++)e.push(n.options.aliases[t].toLowerCase());for(s=r(n.fn,"function")?n.fn():n.fn,o=0;o<e.length;o++)i=e[o],a=i.split("."),1===a.length?Modernizr[a[0]]=s:(!Modernizr[a[0]]||Modernizr[a[0]]instanceof Boolean||(Modernizr[a[0]]=new Boolean(Modernizr[a[0]])),Modernizr[a[0]][a[1]]=s),y.push((s?"":"no-")+a.join("-"))}}function o(e){var n=w.className,t=Modernizr._config.classPrefix||"";if(S&&(n=n.baseVal),Modernizr._config.enableJSClass){var r=new RegExp("(^|\\s)"+t+"no-js(\\s|$)");n=n.replace(r,"$1"+t+"js$2")}Modernizr._config.enableClasses&&(n+=" "+t+e.join(" "+t),S?w.className.baseVal=n:w.className=n)}function i(){return"function"!=typeof n.createElement?n.createElement(arguments[0]):S?n.createElementNS.call(n,"http://www.w3.org/2000/svg",arguments[0]):n.createElement.apply(n,arguments)}function a(){var e=n.body;return e||(e=i(S?"svg":"body"),e.fake=!0),e}function f(e,t,r,s){var o,f,l,u,p="modernizr",d=i("div"),c=a();if(parseInt(r,10))for(;r--;)l=i("div"),l.id=s?s[r]:p+(r+1),d.appendChild(l);return o=i("style"),o.type="text/css",o.id="s"+p,(c.fake?c:d).appendChild(o),c.appendChild(d),o.styleSheet?o.styleSheet.cssText=e:o.appendChild(n.createTextNode(e)),d.id=p,c.fake&&(c.style.background="",c.style.overflow="hidden",u=w.style.overflow,w.style.overflow="hidden",w.appendChild(c)),f=t(d,e),c.fake?(c.parentNode.removeChild(c),w.style.overflow=u,w.offsetHeight):d.parentNode.removeChild(d),!!f}function l(e,n){return!!~(""+e).indexOf(n)}function u(e){return e.replace(/([a-z])-([a-z])/g,function(e,n,t){return n+t.toUpperCase()}).replace(/^-/,"")}function p(e,n){return function(){return e.apply(n,arguments)}}function d(e,n,t){var s;for(var o in e)if(e[o]in n)return t===!1?e[o]:(s=n[e[o]],r(s,"function")?p(s,t||n):s);return!1}function c(e){return e.replace(/([A-Z])/g,function(e,n){return"-"+n.toLowerCase()}).replace(/^ms-/,"-ms-")}function m(n,r){var s=n.length;if("CSS"in e&&"supports"in e.CSS){for(;s--;)if(e.CSS.supports(c(n[s]),r))return!0;return!1}if("CSSSupportsRule"in e){for(var o=[];s--;)o.push("("+c(n[s])+":"+r+")");return o=o.join(" or "),f("@supports ("+o+") { #modernizr { position: absolute; } }",function(e){return"absolute"==getComputedStyle(e,null).position})}return t}function h(e,n,s,o){function a(){p&&(delete k.style,delete k.modElem)}if(o=r(o,"undefined")?!1:o,!r(s,"undefined")){var f=m(e,s);if(!r(f,"undefined"))return f}for(var p,d,c,h,v,g=["modernizr","tspan","samp"];!k.style&&g.length;)p=!0,k.modElem=i(g.shift()),k.style=k.modElem.style;for(c=e.length,d=0;c>d;d++)if(h=e[d],v=k.style[h],l(h,"-")&&(h=u(h)),k.style[h]!==t){if(o||r(s,"undefined"))return a(),"pfx"==n?h:!0;try{k.style[h]=s}catch(y){}if(k.style[h]!=v)return a(),"pfx"==n?h:!0}return a(),!1}function v(e,n,t,s,o){var i=e.charAt(0).toUpperCase()+e.slice(1),a=(e+" "+T.join(i+" ")+i).split(" ");return r(n,"string")||r(n,"undefined")?h(a,n,s,o):(a=(e+" "+E.join(i+" ")+i).split(" "),d(a,n,t))}function g(e,n,r){return v(e,t,t,n,r)}var y=[],x=[],C={_version:"3.3.1",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var t=this;setTimeout(function(){n(t[e])},0)},addTest:function(e,n,t){x.push({name:e,fn:n,options:t})},addAsyncTest:function(e){x.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=C,Modernizr=new Modernizr;var w=n.documentElement,S="svg"===w.nodeName.toLowerCase(),_="CSS"in e&&"supports"in e.CSS,b="supportsCSS"in e;Modernizr.addTest("supports",_||b);var P=C.testStyles=f,z="Moz O ms Webkit",T=C._config.usePrefixes?z.split(" "):[];C._cssomPrefixes=T;var E=C._config.usePrefixes?z.toLowerCase().split(" "):[];C._domPrefixes=E;var N={elem:i("modernizr")};Modernizr._q.push(function(){delete N.elem});var k={style:N.elem.style};Modernizr._q.unshift(function(){delete k.style}),C.testAllProps=v,C.testAllProps=g,Modernizr.addTest("flexbox",g("flexBasis","1px",!0)),Modernizr.addTest("flexboxlegacy",g("boxDirection","reverse",!0)),Modernizr.addTest("csstransforms3d",function(){var e=!!g("perspective","1px",!0),n=Modernizr._config.usePrefixes;if(e&&(!n||"webkitPerspective"in w.style)){var t,r="#modernizr{width:0;height:0}";Modernizr.supports?t="@supports (perspective: 1px)":(t="@media (transform-3d)",n&&(t+=",(-webkit-transform-3d)")),t+="{#modernizr{width:7px;height:18px;margin:0;padding:0;border:0}}",P(r+t,function(n){e=7===n.offsetWidth&&18===n.offsetHeight})}return e}),s(),o(y),delete C.addTest,delete C.addAsyncTest;for(var j=0;j<Modernizr._q.length;j++)Modernizr._q[j]();e.Modernizr=Modernizr}(window,document);
+</script>
+
+    
+
+
+
+<div style="display: none; visibility: hidden;"><script type="text/javascript">function triggerPageview(b){var a=window._sift=window._sift||[];a.push(["_setAccount",b]);a.push(["_setUserId",""]);a.push(["_setSessionId","01999afa-f007-227d-732b-8126f1ae4f21"]);a.push(["_trackPageview"])}(function(){function b(){var a=document.createElement("script");a.src="https://cdn.siftscience.com/s.js";document.body.appendChild(a)}window.attachEvent?window.attachEvent("onload",b):window.addEventListener("load",b,!1)})();triggerPageview("e60105d5d7");</script></div><script type="text/javascript" id="" charset="">(function(){window.setIterableCookies=function(a){function f(a,c,d){if(d){var b=new Date;b.setTime(b.getTime()+864E5*d);d="; expires\x3d"+b.toGMTString()}else d="";document.cookie=a+"\x3d"+c+d+"; path\x3d/"}function g(a){a+="\x3d";for(var c=document.cookie.split(";"),d=0;d<c.length;d++){for(var b=c[d];" "==b.charAt(0);)b=b.substring(1,b.length);if(0==b.indexOf(a))return b.substring(a.length,b.length)}return null}var c="iterableEmailCampaignId",e="iterableTemplateId",k=g(c),l=g(e),h=28;a[c]&&k!==a[c]&&
+f(c,a[c],h);a[e]&&l!==a[e]&&f(e,a[e],h)};var f=document.createElement("script");f.setAttribute("src","https://99designs.com/campaigns/iterable-cookies.json?callback\x3dsetIterableCookies\x26noredirect\x3donce");document.body.appendChild(f)})();</script><script src="./Landing page voorbeeld_files/iterable-cookies.json"></script><script type="text/javascript" id="" charset="">(function(g,e,a,f,b,c,d){b.ire_o=a;b[a]=b[a]||function(){(b[a].a=b[a].a||[]).push(arguments)};c=f.createElement(e);d=f.getElementsByTagName(e)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})("https://utt.impactcdn.com/A127343-e446-4cc0-b3c2-5945762c769a1.js","script","ire",document,window);ire("identify",{customerId:"",customerEmail:""});</script><script type="text/javascript" id="" charset="">(function(){var a=document.createElement("script");a.type="text/javascript";a.async=1;a.src="https://cdn.quantummetric.com/qscripts/quantum-vistaprint.js";var b=document.getElementsByTagName("script")[0];!window.QuantumMetricAPI&&b.parentNode.insertBefore(a,b)})();</script><script type="text/javascript" id="" charset="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CE8LLDBC77U8PGLVCNBG");a.page()}(window,document,"ttq");</script><script type="text/javascript" id="" charset="">(function(){var c=document;var b=window.location;var a=c.createElement("IMG");b=b.protocol+"//tvspix.com/t.png?\x26t\x3d"+(new Date).getTime()+"\x26l\x3dtvscientific-pix-o-1877a1ff-e879-4a71-bff5-6a9186ad3f8d\x26u3\x3d"+encodeURIComponent(b.href);a.setAttribute("src",b);a.setAttribute("height","0");a.setAttribute("width","0");a.setAttribute("alt","");a.style.setProperty("display","none");a.style.setProperty("position","absolute");a.style.setProperty("visibility","hidden");c.body.appendChild(a)})();</script><img src="./Landing page voorbeeld_files/t.png" height="0" width="0" alt="" style="display: none; position: absolute; visibility: hidden; width: 0px !important; height: auto !important; inset: 0px auto auto 0px !important;"><iframe height="0" width="0" style="display: none; visibility: hidden;" src="./Landing page voorbeeld_files/saved_resource(1).html"></iframe>
+<iframe height="0" width="0" aria-hidden="true" alt="" style="pointer-events: none; height: 0px; width: 0px; position: absolute; padding: 0px; margin: 0px; border: 0px; visibility: hidden;" src="./Landing page voorbeeld_files/saved_resource(2).html"></iframe><div id="batBeacon454199939194" style="width: 0px; height: 0px; display: none; visibility: hidden;"><img id="batBeacon222713675930" width="0" height="0" alt="" src="./Landing page voorbeeld_files/0" style="width: 0px; height: 0px; display: none; visibility: hidden;"></div><script src="./Landing page voorbeeld_files/s.js"></script></body><b tabindex="-1" style="position: absolute; left: -1000px;"><iframe style="display: none;" src="./Landing page voorbeeld_files/saved_resource(3).html"></iframe></b><as-select-wrapper id="as_select_wrapper"><template shadowrootmode="open"><style>/*************************************/
+/*********** Veriables ***************/
+/*************************************/
+/*************************************/
+/************** Mixins ***************/
+/*************************************/
+.dropdown-text-btn {
+  padding: 7px 10px;
+  line-height: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.dropdown-text-btn .dropdown-arrow {
+  margin-left: 5px;
+  font-size: 8px;
+  top: -1px;
+}
+.dropdown-text-btn.ant-dropdown-open {
+  background-color: var(--as-dropdown-btn-open-bg-color);
+}
+.dropdown-text-btn.ant-dropdown-open:hover {
+  background-color: var(--as-dropdown-btn-open-bg-color);
+}
+.dropdown-text-btn:hover {
+  background-color: var(--as-dropdown-btn-bg-color);
+}
+/*************************************/
+/*************** Antd ****************/
+/*************************************/
+.ant-select-arrow {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 13px;
+}
+.unselectable {
+  -webkit-user-select: none;
+}
+#awesome_screenshot_wrapper {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2147483647;
+  /* MAX:2147483647 */
+  cursor: crosshair;
+  visibility: visible !important;
+  background-color: rgba(0, 0, 0, 0.3);
+  font: normal normal normal 12px/1 Helvetica, arial, sans-serif;
+  box-sizing: content-box !important;
+}
+#awesome_screenshot_wrapper * {
+  box-sizing: border-box !important;
+}
+#awesome_screenshot_wrapper > div {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.3);
+  cursor: auto;
+}
+#awesome_screenshot_top {
+  top: 0;
+  left: 0;
+}
+#awesome_screenshot_right {
+  top: 0;
+  right: 0;
+}
+#awesome_screenshot_bottom {
+  right: 0;
+  bottom: 0;
+}
+#awesome_screenshot_left {
+  bottom: 0;
+  left: 0;
+}
+div#awesome_screenshot_center {
+  cursor: move;
+  outline: 1.5px dashed #d5d5d5;
+  background-color: rgba(0, 0, 0, 0);
+}
+.dragresize {
+  display: block !important;
+  position: absolute !important;
+  z-index: 999 !important;
+  width: 9px !important;
+  height: 9px !important;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAIxJREFUeNqMUDEOgCAMrA58CFZX3uDIU/iBX3D0DawkTCS8xhBYao84aOLgJZdy10sLTMxMgDHGSVmFizAKj5zzPpoIaa037z2nlLjWOio0/DFEDg5Ga42fgL6DbsYKay0ppegJaPjjCpI8seIL8NHHpFhKoS/cfkToCCFQ7/0VgIaP/q/XTX/+6RJgAEc6j4dkIiynAAAAAElFTkSuQmCC);
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  font-size: 0.1px !important;
+}
+.dragresize-tl {
+  top: -5px;
+  left: -5px;
+  cursor: nw-resize;
+}
+.dragresize-tm {
+  top: -5px;
+  width: 100% !important;
+  cursor: n-resize;
+}
+.dragresize-tr {
+  top: -5px;
+  right: -5px;
+  cursor: ne-resize;
+}
+.dragresize-ml {
+  left: -5px;
+  height: 100% !important;
+  cursor: w-resize;
+}
+.dragresize-mr {
+  right: -5px;
+  height: 100% !important;
+  cursor: e-resize;
+}
+.dragresize-bl {
+  left: -5px;
+  bottom: -5px;
+  cursor: sw-resize;
+}
+.dragresize-bm {
+  bottom: -5px;
+  width: 100% !important;
+  cursor: s-resize;
+}
+.dragresize-br {
+  right: -5px;
+  bottom: -5px;
+  cursor: se-resize;
+}
+#awesome_screenshot_size {
+  display: none;
+  position: absolute;
+  top: -30px;
+  left: 0;
+}
+#awesome_screenshot_size span {
+  padding: 2px 10px;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #eee;
+  text-align: center;
+  line-height: 20px;
+}
+font {
+  pointer-events: none;
+}
+#awesome_screenshot_action {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #32343e;
+  z-index: 2147483647;
+  text-align: center;
+  overflow: hidden;
+  border-radius: 2px;
+  height: 38px;
+  font-size: 16px !important;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.9);
+}
+#awesome_screenshot_action .awesome_action_btn {
+  display: inline-block;
+  line-height: 38px;
+  height: 38px;
+  background: #32343e;
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: PingFang SC;
+  padding-left: 18px;
+  padding-right: 18px;
+  text-decoration: none !important;
+  cursor: pointer;
+}
+#awesome_screenshot_action .awesome_action_btn.cancel span {
+  display: none;
+  position: relative;
+  width: 14px;
+  height: 1px;
+  background-color: white;
+  transform: rotate(45deg);
+  border-radius: 0.5px;
+  left: -4.5px;
+  bottom: 4.5px;
+}
+#awesome_screenshot_action .awesome_action_btn.cancel span:after {
+  display: block;
+  content: "";
+  position: absolute;
+  width: 14px;
+  height: 1px;
+  background-color: white;
+  transform: rotate(90deg);
+  border-radius: 0.5px;
+}
+#awesome_screenshot_action .awesome_action_btn.copy span {
+  display: inline-block;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  left: -3px;
+  bottom: -3px;
+  background-size: 16px 16px;
+}
+#awesome_screenshot_action .awesome_action_btn:active {
+  background-color: #191a1e;
+}
+.tooltip {
+  position: relative;
+}
+.tooltip::after {
+  content: attr(aria-label);
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 4px 6px;
+  font-size: 12px;
+  line-height: 12px;
+  white-space: nowrap;
+  border-radius: 2px;
+  /* box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3); */
+  bottom: calc(100% + 5px);
+  left: 50%;
+  position: absolute;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 1000000;
+  pointer-events: none;
+  transition: 0.2s ease;
+  transition-delay: 0s;
+  transform: translate3d(-50%, 0, 0);
+}
+.tooltip.tooltip-bottom::after {
+  height: 12px;
+  top: 24px;
+  transition-delay: 0.6s;
+}
+.tooltip-bottom.no-after::after {
+  display: none;
+}
+.tooltip.tooltip-right::after {
+  right: auto;
+  left: 0;
+  transform: translate3d(0, 0, 0);
+}
+.tooltip:hover::after {
+  visibility: visible;
+  opacity: 1;
+}
+.tooltip.delay:hover::after {
+  transition-delay: 0.3s;
+}
+.border-style {
+  display: none;
+  background-color: #5794ff;
+  position: fixed;
+  z-index: 2147483647;
+}
+.border-style.top {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 5px;
+}
+.border-style.left {
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  width: 5px;
+}
+.border-style.right {
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 5px;
+}
+.border-style.bottom {
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  height: 5px;
+}
+.annotate_toolbar {
+  display: none;
+  position: absolute;
+  right: -44px;
+  width: 74px;
+  font-size: 16px;
+  visibility: visible !important;
+  font-family: sans-serif;
+  background-color: #32343e;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.9);
+  z-index: 2147483647;
+  box-sizing: border-box !important;
+  cursor: pointer;
+}
+.annotate_toolbar .file-input {
+  display: none;
+}
+.annotate_toolbar .svg-panel {
+  display: none;
+  position: absolute;
+  background-color: white;
+  border-radius: 4px;
+  width: 180px !important;
+  height: 177px;
+  top: 0px;
+  overflow-y: scroll;
+  line-height: 48px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+}
+.annotate_toolbar .svg-panel.right {
+  left: 74px;
+}
+.annotate_toolbar .svg-panel.left {
+  right: 64px;
+}
+.annotate_toolbar .svg-panel .image-item {
+  width: 48px;
+  height: 48px;
+  background: white;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  margin: 0 3px 6px 3px;
+}
+.annotate_toolbar .svg-panel .image-item:hover {
+  background: #e0ecff;
+}
+.annotate_toolbar .svg-panel .image-item img {
+  width: 44px;
+  height: 44px;
+  vertical-align: middle;
+}
+.annotate_toolbar .color_panel {
+  display: none;
+  width: 40px;
+  height: 200px;
+  top: 0px;
+  position: absolute;
+  background-color: #191a1e;
+  border-radius: 2px;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+.annotate_toolbar .color_panel.only_color {
+  height: 124px;
+}
+.annotate_toolbar .color_panel.left {
+  right: -46px;
+}
+.annotate_toolbar .color_panel.left .trangle {
+  left: -6px;
+  border-top: 6px solid transparent;
+  border-right: 6px solid #191a1e;
+  border-bottom: 6px solid transparent;
+}
+.annotate_toolbar .color_panel.right {
+  right: 78px;
+}
+.annotate_toolbar .color_panel.right .trangle {
+  left: 38px;
+  border-top: 6px solid transparent;
+  border-bottom: 6px solid transparent;
+  border-left: 6px solid #191a1e;
+}
+.annotate_toolbar .color_panel .trangle {
+  position: absolute;
+  top: 10px;
+  width: 8px;
+  height: 8px;
+  box-sizing: border-box !important;
+}
+.annotate_toolbar .color_panel .colors {
+  width: 14px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.annotate_toolbar .color_panel .colors .width_cell {
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 14px;
+  height: 14px;
+  display: block;
+}
+.annotate_toolbar .color_panel .colors .width_cell.text .font {
+  display: block !important;
+}
+.annotate_toolbar .color_panel .colors .width_cell.hidden {
+  display: none;
+}
+.annotate_toolbar .color_panel .colors .width_cell .font {
+  display: none;
+  color: #6e6e6e;
+  line-height: 14px;
+  pointer-events: none;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  font-style: normal;
+  font-family: sans-serif;
+}
+.annotate_toolbar .color_panel .colors .width_cell .font.small {
+  font-size: 10px;
+}
+.annotate_toolbar .color_panel .colors .width_cell .font.middle {
+  font-size: 14px;
+}
+.annotate_toolbar .color_panel .colors .width_cell .font.big {
+  font-size: 18px;
+}
+.annotate_toolbar .color_panel .colors .width_cell .font.selected {
+  color: white;
+}
+.annotate_toolbar .color_panel .colors .width_cell.shape .dot {
+  display: block !important;
+}
+.annotate_toolbar .color_panel .colors .width_cell .dot {
+  display: none;
+  border-radius: 50%;
+  pointer-events: none;
+  background-color: #6e6e6e;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.annotate_toolbar .color_panel .colors .width_cell .dot.small {
+  width: 4px;
+  height: 4px;
+}
+.annotate_toolbar .color_panel .colors .width_cell .dot.middle {
+  width: 8px;
+  height: 8px;
+}
+.annotate_toolbar .color_panel .colors .width_cell .dot.big {
+  width: 12px;
+  height: 12px;
+}
+.annotate_toolbar .color_panel .colors .width_cell .dot.selected {
+  background-color: white;
+  color: white;
+}
+.annotate_toolbar .color_panel .colors .color_cell {
+  width: 14px;
+  height: 14px;
+  border-radius: 1px;
+  margin-bottom: 4px;
+  box-sizing: border-box !important;
+}
+.annotate_toolbar .color_panel .colors .color_cell.selected {
+  border: 1px solid white;
+}
+.annotate_toolbar .color_panel .colors .color_cell:active {
+  border: 1px solid white;
+}
+.annotate_toolbar .color_panel .colors .color_cell.red {
+  background-color: #ff0000;
+}
+.annotate_toolbar .color_panel .colors .color_cell.blue {
+  background-color: #4887e8;
+}
+.annotate_toolbar .color_panel .colors .color_cell.green {
+  background-color: #00ff00;
+}
+.annotate_toolbar .color_panel .colors .color_cell.yellow {
+  background-color: #f1c231;
+}
+.annotate_toolbar .color_panel .colors .color_cell.gray {
+  background-color: #666666;
+}
+.annotate_toolbar .color_panel .colors .color_cell.white {
+  background-color: #ffffff;
+}
+.annotate_toolbar .cancel {
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  top: -7px;
+  right: -7px;
+  border-radius: 50%;
+  background-size: contain;
+  background-color: #424242;
+  padding: 3px;
+  cursor: pointer;
+  z-index: 100;
+}
+.annotate_toolbar .cancel .icon {
+  position: absolute;
+  left: 4px;
+  top: -2px;
+  font-size: 18px;
+  line-height: 18px;
+  width: 10px;
+  color: #d3d3d3;
+  transform: rotate(45deg);
+  pointer-events: none;
+}
+.annotate_toolbar .cancel:hover {
+  background-color: #1a1a20;
+}
+.annotate_toolbar .action_area {
+  display: block;
+  padding: 0px 5px 10px 5px;
+  line-height: 22px;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+.annotate_toolbar .action_area .awesome_action_btn {
+  display: inline-block;
+  width: 52px;
+  height: 22px;
+  margin: 5px 0px;
+  color: white;
+  border-radius: 2px;
+  font-size: 12px;
+  text-align: center;
+  line-height: 22px;
+  background-color: #505362;
+}
+.annotate_toolbar .action_area .awesome_action_btn.copy {
+  margin-top: 0px;
+}
+.annotate_toolbar .action_area .awesome_action_btn:hover {
+  background-color: #3c3f4b;
+}
+.annotate_toolbar .action_area .awesome_action_btn:active {
+  background-color: #191a1e;
+}
+.annotate_toolbar .action_area .awesome_action_btn.save {
+  background-color: #5794ff;
+}
+.annotate_toolbar .action_area .awesome_action_btn.save:hover {
+  background-color: #1f64dd;
+}
+.annotate_toolbar .action_area .awesome_action_btn.save:active {
+  background-color: #1f64dd;
+}
+.annotate_toolbar .action_area .awesome_action_btn.ocr {
+  background-color: #8a57ea;
+}
+.annotate_toolbar .action_area .awesome_action_btn.ocr:hover {
+  background-color: #7637eb;
+}
+.annotate_toolbar .action_area .awesome_action_btn.ocr:active {
+  background-color: #7637eb;
+}
+.annotate_toolbar .action_area .center-block {
+  display: none;
+  position: absolute;
+  bottom: 0px;
+  right: 80px;
+  width: 518px;
+  padding: 20px 24px;
+  border-radius: 12px;
+  font-size: 14px;
+  cursor: default;
+  background-color: white;
+  box-shadow: 0px 6px 12px 0px rgba(0, 0, 0, 0.18);
+}
+.annotate_toolbar .action_area .center-block .close {
+  position: absolute;
+  right: 10px;
+  top: 4px;
+  font-size: 24px;
+  color: #979797;
+  transform: rotate(45deg);
+  cursor: pointer;
+}
+.annotate_toolbar .action_area .center-block .header {
+  width: 100%;
+  line-height: 100%;
+  text-align: center;
+}
+.annotate_toolbar .action_area .center-block .subTitle {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #282828;
+}
+.annotate_toolbar .action_area .center-block .subTitle span {
+  position: relative;
+}
+.annotate_toolbar .action_area .center-block .subTitle span::before {
+  content: "";
+  height: 0;
+  width: 0;
+  border-width: 4px;
+  border-color: #e1342559;
+  border-style: solid;
+  border-radius: 4px;
+  display: block;
+  position: absolute;
+  left: 0px;
+  width: 98%;
+  top: 12px;
+}
+.annotate_toolbar .action_area .center-block .tips {
+  font-size: 14px;
+  line-height: 21px;
+  color: #383c43;
+  text-align: left;
+  margin-bottom: 6px;
+  margin-top: 10px;
+  padding-inline-start: 14px;
+}
+.annotate_toolbar .action_area .center-block .tips li {
+  list-style-type: disc;
+  line-height: 20px;
+  font-size: 14px;
+  padding-bottom: 4px;
+  font-style: normal;
+}
+.annotate_toolbar .action_area .center-block .tips span {
+  font-weight: 600;
+}
+.annotate_toolbar .action_area .center-block .btn-area {
+  margin-top: 24px;
+}
+.annotate_toolbar .action_area .center-block .btn-area .tip {
+  color: #00000040;
+  font-size: 12px;
+  font-style: normal;
+  line-height: 14px;
+  margin-top: 12px;
+  text-align: center;
+}
+.annotate_toolbar .action_area .center-block .btn-area .fields {
+  display: flex;
+  color: #282828;
+  flex-direction: row;
+  line-height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.annotate_toolbar .action_area .center-block .btn-area .fields.wrapper {
+  padding: 16px;
+  border-radius: 16px;
+  background-color: #f8f8f8;
+  margin-top: 20px;
+}
+.annotate_toolbar .action_area .center-block .btn-area .fields.wrapper .diver {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 1px;
+  height: 32px;
+  background-color: #e2e2e2;
+}
+.annotate_toolbar .action_area .center-block .btn-area .fields .item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+}
+.annotate_toolbar .action_area .center-block .btn-area .fields .item span {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-left: 4px;
+}
+.annotate_toolbar .action_area .center-block .btn-area .fields .item.rate {
+  flex-direction: row;
+}
+.annotate_toolbar .action_area .center-block .btn-area .fields .item.rate .rate {
+  margin-left: 12px !important;
+  display: flex;
+  flex-direction: column;
+}
+.annotate_toolbar .action_area .center-block .btn-area .fields .item.rate .rate span {
+  margin-left: 0px !important;
+}
+.annotate_toolbar .action_area .center-block .popup-btn-primary {
+  text-align: center;
+  font-size: 22px;
+  line-height: 24px;
+  font-weight: 600;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  cursor: pointer;
+  background-color: #8a57ea;
+  border-color: #8a57ea;
+  border-radius: 72px;
+  line-height: 32px;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+.annotate_toolbar .action_area .center-block .popup-btn-primary img {
+  width: 32px;
+  height: 32px;
+  pointer-events: none;
+}
+.annotate_toolbar .action_area .center-block .popup-btn-primary:hover {
+  background-color: #7637eb;
+}
+.annotate_toolbar .action_area .center-block .popup-btn-primary:active {
+  background-color: #7637eb;
+}
+.annotate_toolbar .action_area .center-block .popup-btn-primary span {
+  margin-left: 8px;
+  pointer-events: none;
+}
+.annotate_toolbar .drag_handler {
+  width: 100%;
+  height: 18px;
+}
+.annotate_toolbar.can_drag:hover .drag_handler::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  border-width: 0px;
+  border-radius: 2px;
+  background-color: #8a8f99;
+  left: 27px;
+  top: 9px;
+  z-index: 2;
+  pointer-events: none;
+}
+.annotate_toolbar.can_drag:hover .drag_handler::before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  border-width: 0px;
+  border-radius: 2px;
+  background-color: #8a8f99;
+  left: 27px;
+  top: 6px;
+  /* right: auto; */
+  z-index: 2;
+  pointer-events: none;
+}
+.annotate_toolbar.can_drag .drag_handler {
+  cursor: grab;
+}
+.annotate_toolbar.can_drag .drag_handler.grabbing {
+  cursor: grabbing;
+}
+.annotate_toolbar .shapes_area {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 192px;
+  position: relative;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+.annotate_toolbar .shapes_area .sep_line {
+  width: 46px;
+  height: 1px;
+  background-color: #d8d8d8;
+  position: absolute;
+  bottom: 34px;
+  left: 8px;
+  opacity: 0.26;
+}
+.annotate_toolbar .toolbar_item {
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  margin: 4px 2px;
+  padding: 4px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.annotate_toolbar .toolbar_item.top {
+  margin-top: 0px;
+}
+.annotate_toolbar .toolbar_item.action_item {
+  margin-top: 5px;
+  margin-bottom: 3px;
+}
+.annotate_toolbar .toolbar_item:hover {
+  background-color: #25272e;
+}
+.annotate_toolbar .toolbar_item:active {
+  background-color: #191a1e;
+}
+.annotate_toolbar .toolbar_item.selected {
+  background-color: #191a1e;
+}
+.annotate_toolbar .toolbar_item.isfree {
+  filter: brightness(0.6);
+}
+.annotate_toolbar .toolbar_item.disable {
+  pointer-events: none;
+  filter: brightness(0.6);
+}
+.annotate_toolbar .toolbar_item .toolbtn {
+  /* background-color: green; */
+  position: relative;
+  height: 16px;
+  width: 16px;
+  pointer-events: none;
+  background-size: 512px auto;
+  background-image: url(chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/images/annotate_icons.png);
+  alt: "chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/images/annotate_icons";
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5) {
+  .annotate_toolbar .toolbar_item .toolbtn {
+    background-image: url(chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/images/annotate_icons@2x.png);
+  }
+}
+.annotate_toolbar .toolbar_item .toolbtn.rect {
+  background-position: 0 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.ellipse {
+  background-position: -16px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.line_arrow {
+  background-position: -272px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.big_head_arrow {
+  background-position: -272px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.curve {
+  background-position: -48px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.rect_blur {
+  background-position: -64px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.text {
+  background-position: -80px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.callout {
+  background-position: -304px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.list {
+  background-position: -320px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.image {
+  background-position: -336px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.insertImage {
+  background-position: -352px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.more {
+  background-position: -496px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.clear-all {
+  background-position: -416px 0;
+}
+.annotate_toolbar .toolbar_item .toolbtn.undobtn {
+  background-position: -96px 0;
+}
+.content-sign {
+  display: none;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  font-size: 14px;
+  z-index: 2147483647;
+}
+.content-sign .center-block {
+  text-align: left;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 244px;
+  padding: 22px;
+  background-color: white;
+  box-shadow: 0px 6px 12px 0px rgba(0, 0, 0, 0.18);
+  border-radius: 4px;
+  transform: translate3d(-50%, -50%, 0);
+}
+.content-sign .center-block.upgrade {
+  width: 260px;
+  padding: 20px;
+  text-align: center;
+}
+.content-sign .center-block.upgrade img {
+  height: 60px;
+  width: 60px;
+  filter: invert(71%) sepia(53%) saturate(647%) hue-rotate(339deg) brightness(104%) contrast(98%);
+}
+.content-sign .center-block.upgrade .tips {
+  font-size: 16px;
+  line-height: 24px;
+  color: #383c43;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 16px;
+}
+.content-sign .center-block.upgrade .popup-btn-primary {
+  border-color: #5794ff;
+  background-color: #5794ff;
+  color: white;
+  line-height: 36px !important;
+  border-radius: 8px !important;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.content-sign .center-block.upgrade .sub-item {
+  text-align: center;
+  font-size: 12px;
+  line-height: 34px;
+  height: 34px;
+  margin-top: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #5794ff;
+}
+.content-sign .center-block .close {
+  position: absolute;
+  right: 16px;
+  top: 12px;
+  font-size: 24px;
+  color: #979797;
+  transform: rotate(45deg);
+  cursor: pointer;
+}
+.content-sign .center-block p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 0;
+}
+.content-sign .center-block .popup-btn-primary {
+  text-align: center;
+  border: 1px solid #666;
+  border-radius: 4px;
+  line-height: 40px;
+  font-size: 15px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-color: #5794ff;
+  background-color: #5794ff;
+  color: white;
+}
+/******************notification******************/
+#asNotifyBox {
+  border-radius: 3px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+  border: solid 1px #fff;
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f5f5f5);
+  position: fixed;
+  top: 5px;
+  right: 5px;
+  z-index: 1000000;
+  padding: 10px;
+  width: 280px;
+  -webkit-animation: fadeIn 300ms ease;
+}
+#asNotifyBox img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+#as-notifyMessage {
+  font: normal 12px/14px arial, Helvetica;
+  white-space: normal;
+  word-break: break-all;
+  display: inline-block;
+  width: 230px;
+  vertical-align: middle;
+}
+#as-notifyClose {
+  position: absolute;
+  right: 3px;
+  top: 3px;
+  height: 12px;
+  width: 12px;
+  background-image: url("chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/images/clear.png");
+  opacity: 0.3;
+  cursor: pointer;
+}
+#as-notifyClose:hover {
+  opacity: 0.5;
+}
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+/***********Admanage**********/
+#sa-admanage-box {
+  margin: 0px -28px 11px 0px;
+  padding: 2px 8px 6px 8px;
+  background-color: #fff7ed;
+}
+#sa-admanage-box ol {
+  margin-top: -14px;
+}
+#sa-admanage-box h2 span {
+  font-size: 10px;
+  text-align: left;
+  color: #767676;
+  font-weight: normal;
+}
+#sa-admanage-box h2 {
+  margin: 0px;
+  text-align: right;
+  line-height: 10px;
+}
+#sa-admanage-box li {
+  margin: 20px 8px 0 0;
+  max-width: 440px;
+}
+/***************** delay div *******************/
+#awe_delay_div {
+  box-sizing: content-box !important;
+  height: 90px !important;
+  width: 120px !important;
+  text-align: center !important;
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  font-size: 72px !important;
+  font-weight: bold !important;
+  position: fixed !important;
+  right: 20px !important;
+  top: 20px;
+  z-index: 1000000 !important;
+  line-height: 100px !important;
+  color: white !important;
+  border-top-left-radius: 3px !important;
+  border-top-right-radius: 3px !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important;
+  font-family: Arial !important;
+}
+#awe_delay_div.countdown {
+  left: 0 !important;
+  right: 0 !important;
+  top: 0 !important;
+  bottom: 0 !important;
+  margin: auto !important;
+  background-color: rgba(0, 0, 0, 0.8) !important;
+}
+#awe_delay_div.countdown #awe_delay_cancel {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+}
+#awe_delay_cancel {
+  width: 120px !important;
+  height: 30px !important;
+  line-height: 30px !important;
+  font-size: 14px !important;
+  font-weight: normal !important;
+  position: absolute !important;
+  bottom: -31px !important;
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  cursor: pointer !important;
+  border-bottom-left-radius: 3px !important;
+  border-bottom-right-radius: 3px !important;
+}
+#awe_delay_cancel:hover {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+}
+#aws-record-div {
+  height: 1px !important;
+  width: 1px !important;
+  position: fixed !important;
+  left: 0 !important;
+  top: 0 !important;
+  background-color: rgba(0, 0, 0, 0.2) !important;
+  animation: fadeIn 1000ms infinite !important;
+}
+</style><div id="awesome_screenshot_wrapper" style="display: block; width: 1850px; height: 966px; background-color: rgba(0, 0, 0, 0);"><div id="awesome_screenshot_top" style="width: 1530px; height: 0px;"></div><div id="awesome_screenshot_right" style="width: 320px; height: 897px; left: 1530px;"></div><div id="awesome_screenshot_bottom" style="width: 780px; height: 72px; top: 897px; left: 1070px;"></div><div id="awesome_screenshot_left" style="width: 1070px; height: 969px; top: 0px;"></div><div id="awesome_screenshot_center" class="drsElement drsMoveHandle" style="width: 460px; height: 897px; top: 0px; left: 1070px; z-index: 3; outline: none; cursor: move;"><div id="awesome_screenshot_size" style="min-width: 70px; display: block; top: 5px;"><span>460 X 897</span></div><div class="dragresize dragresize-tl" style="visibility: inherit;"></div><div class="dragresize dragresize-tm" style="visibility: inherit;"></div><div class="dragresize dragresize-tr" style="visibility: inherit;"></div><div class="dragresize dragresize-ml" style="visibility: inherit;"></div><div class="dragresize dragresize-mr" style="visibility: inherit;"></div><div class="dragresize dragresize-bl" style="visibility: inherit;"></div><div class="dragresize dragresize-bm" style="visibility: inherit;"></div><div class="dragresize dragresize-br" style="visibility: inherit;"></div></div></div><div id="sign_view" class="content-sign"><div class="center-block"><div class="close" id="close">+</div><p class="content">Saving image to Cloud is selected in your extension menu and therefore sign-in is required.</p><div class="btn-area"><div class="popup-btn-primary" id="popup-sign-in-btn">Sign in now</div></div></div></div><div id="upgrade_view" class="content-sign"><div class="center-block upgrade"><div class="close" id="close_upgrade">+</div><img src="chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/images/svgIcons/ic_crown.svg"><div class="tips">You've reached the 100 screenshot limit</div><div class="btn-area"><div class="popup-btn-primary" id="popup-imge-upgrade-btn" data-reason="ext_pop_image_limit">Upgrade now</div><!-- <div class="sub-item" id="change-local" >Refer friends to get free Professaionl plan</div> --></div></div></div><div class="border-style top"></div><div class="border-style left"></div><div class="border-style right"></div><div class="border-style bottom"></div><!-- <div id="awesome_screenshot_action">
+  <a id="awesome_screenshot_cancel" class="awesome_action_btn cancel"
+    ></span>Cancel</a
+  ><a id="awesome_screenshot_copy" class="awesome_action_btn copy"
+    >Copy</a
+  ><a id="awesome_screenshot_capture" class="awesome_action_btn"
+    >Capture</a
+  >
+</div> --><div id="screenshot_annotate" class="annotate_toolbar can_drag" style="transform: translate(0px, 0px); display: none; right: 815px; top: 652px;"><input id="file_input" type="file" class="file-input" accept=".jpg,.png,.jpeg"><div class="drag_handler"></div><div id="shapes_area" class="shapes_area" style="display: flex;"><div id="awesome_rect_btn" class="toolbar_item tooltip tooltip-right top" aria-label="Rectangle"><div class="toolbtn rect"></div></div><div id="awesome_round_btn" class="toolbar_item tooltip tooltip-right" aria-label="Ellipse"><div class="toolbtn ellipse"></div></div><div id="awesome_arrow_btn" class="toolbar_item tooltip tooltip-right" aria-label="Arrow"><div class="toolbtn big_head_arrow"></div></div><div id="awesome_freeline_btn" class="toolbar_item tooltip tooltip-right" aria-label="Pen"><div class="toolbtn curve"></div></div><div id="awesome_blur_btn" class="toolbar_item tooltip tooltip-right" aria-label="Blur"><div class="toolbtn rect_blur"></div></div><div id="awesome_undo_btn" aria-label="Undo" class="toolbar_item action_item tooltip tooltip-right disable"><div class="toolbtn undobtn"></div></div><div id="awesome_text_btn" class="toolbar_item tooltip tooltip-right top" aria-label="Text"><div class="toolbtn text"></div></div><div id="awesome_callout_btn" class="toolbar_item tooltip tooltip-right premium isfree" aria-label="Callout"><div class="toolbtn callout"></div></div><div id="awesome_step_btn" class="toolbar_item tooltip tooltip-right premium isfree" aria-label="Step"><div class="toolbtn list"></div></div><div id="awesome_image_btn" class="toolbar_item tooltip tooltip-right premium isfree" aria-label="Emoji"><div class="toolbtn image"></div></div><div id="awesome_image_local_btn" class="toolbar_item tooltip tooltip-top" aria-label="More annotation tools"><div class="toolbtn more"></div></div><div class="sep_line"></div><div id="awesome_clear_btn" class="toolbar_item action_item tooltip tooltip-right disable" aria-label="Clear"><div class="toolbtn clear-all icon-text"></div></div></div><div id="awesome_screenshot_cancel" class="awesome_action_btn cancel tooltip tooltip-top" aria-label="Cancel"><div class="icon">+</div></div><div class="action_area"><a id="awesome_screenshot_copy" class="awesome_action_btn copy">Copy</a> <a id="awesome_screenshot_capture" class="awesome_action_btn tooltip tooltip-bottom save" aria-label="Ctrl+Shift+Enter">Capture</a> <a id="awesome_screenshot_ocr" class="awesome_action_btn ocr tooltip tooltip-bottom" aria-label="Extract text from image">AI OCR</a><div class="center-block ocr" id="ocr_guide_view"><div class="close" id="close_ocr">+</div><!-- <img src="chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/images/ic_sider.png" /> --><div class="header"><img src="chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/images/svgIcons/ic_sider_logo.svg"></div><div class="subTitle">Transform <span>Images to Editable Text</span> in Seconds!</div><ul class="tips"><li>Instantly extract text from any image</li><li>Easily translate, summarize, explain, &amp; rewrite text with AI</li><li>Chat with any image, pdf, or webpage quickly</li><li>Accurately recognize and solve math equations</li></ul><!-- <div class="btn-area">
+        <div
+          class="popup-btn-primary"
+          id="popup-imge-ocr-btn"
+          data-reason="ext_pop_sider_limit"
+        >
+          Get it now
+        </div>
+        <div class="tip">Awesome Screenshot teams up with Sider.AI to extract text from your screenshot.</div>
+      </div> --><div class="btn-area"><div class="popup-btn-primary" id="popup-imge-ocr-btn" data-reason="ext_pop_sider_limit"><img src="chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/images/svgIcons/chrome.svg"> <span>Extract Text with Sider</span></div><div class="tip">Awesome Screenshot teams up with Sider.Al to boost your productivity</div><div class="fields wrapper"><div class="item"><div class="fields"><img src="chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/images/svgIcons/ic_cup.svg"> <span>2023</span></div><div>Chrome Favorites</div></div><div class="diver"></div><div class="item rate"><img src="chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/images/svgIcons/ic_store.svg"><div class="rate"><span>4.9 out of 5.0</span> <img src="chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/images/svgIcons/five_star.svg"></div></div><div class="diver"></div><div class="item"><span>5M+</span><div>Active Users</div></div></div></div></div></div><div id="awesome_color_panel" class="color_panel left"><div class="trangle"></div><div class="colors"><div id="awesome_width_small" class="width_cell shape"><div class="dot small"></div><div class="font small">A</div></div><div id="awesome_width_middle" class="width_cell shape"><div class="dot middle"></div><div class="font middle">A</div></div><div id="awesome_width_big" class="width_cell shape"><div class="dot big"></div><div class="font big">A</div></div><div id="red_clr" class="color_cell red"></div><div id="blue_clr" class="color_cell blue"></div><div id="green_clr" class="color_cell green"></div><div id="yellow_clr" class="color_cell yellow"></div><div id="gray_clr" class="color_cell gray"></div><div id="white_clr" class="color_cell white"></div></div></div><div id="awesome_svgs_panel" class="svg-panel right"></div></div></template></as-select-wrapper></html>
