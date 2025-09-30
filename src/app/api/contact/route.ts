@@ -1,7 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { Resend } from 'resend';
-
-const resend = new Resend(process.env.RESEND_API_KEY);
 
 // Simple in-memory rate limiting
 const rateLimitMap = new Map<string, { count: number; resetTime: number }>();
@@ -64,54 +61,25 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Prepare email content
-    const emailSubject = `Nieuwe aanvraag – ${trip} – House of Momma`;
-    
-    const emailContent = `
-      <h2>Nieuwe aanvraag via House of Momma website</h2>
-      
-      <h3>Contactgegevens:</h3>
-      <ul>
-        <li><strong>Naam:</strong> ${firstName} ${lastName}</li>
-        <li><strong>E-mail:</strong> ${email}</li>
-        <li><strong>Telefoon:</strong> ${body.phone || 'Niet opgegeven'}</li>
-      </ul>
-      
-      <h3>Trip details:</h3>
-      <ul>
-        <li><strong>Gekozen trip:</strong> ${trip}</li>
-        <li><strong>Gewenste periode:</strong> ${body.period || 'Niet opgegeven'}</li>
-      </ul>
-      
-      ${body.message ? `
-      <h3>Bericht:</h3>
-      <p>${body.message}</p>
-      ` : ''}
-      
-      <hr>
-      <p><small>
-        Verzonden op: ${new Date().toLocaleString('nl-NL')}<br>
-        IP-adres: ${ip}
-      </small></p>
-    `;
-
-    // Send email using Resend
-    const { data, error } = await resend.emails.send({
-      from: process.env.CONTACT_FROM || 'noreply@houseofmomma.com',
-      to: [process.env.CONTACT_TO || 'info@houseofmomma.com'],
-      subject: emailSubject,
-      html: emailContent,
+    // Log the form submission (for development/debugging)
+    console.log('Form submission received:', {
+      firstName,
+      lastName,
+      email,
+      trip,
+      phone: body.phone,
+      period: body.period,
+      message: body.message,
+      timestamp: new Date().toISOString(),
+      ip
     });
 
-    if (error) {
-      console.error('Resend error:', error);
-      return NextResponse.json(
-        { error: 'Er ging iets mis bij het versturen van de e-mail' },
-        { status: 500 }
-      );
-    }
-
-    return NextResponse.json({ ok: true, messageId: data?.id });
+    // Simulate successful submission
+    // TODO: Add email functionality later with Resend
+    return NextResponse.json({ 
+      ok: true, 
+      message: 'Form submitted successfully (email functionality coming soon)' 
+    });
 
   } catch (error) {
     console.error('Contact form error:', error);

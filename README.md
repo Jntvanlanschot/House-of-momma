@@ -32,17 +32,17 @@ Een productie-klare marketing/booking site voor House of Momma (platform voor sp
    pnpm install
    ```
 
-3. **Kopieer environment variabelen**
+3. **Kopieer environment variabelen (optioneel)**
    ```bash
    cp env.example .env.local
    ```
 
-4. **Vul de environment variabelen in**
+4. **Environment variabelen (voor toekomstig gebruik)**
    ```bash
-   # .env.local
-   RESEND_API_KEY=your_resend_api_key_here
-   CONTACT_TO=your_email@example.com
-   CONTACT_FROM=noreply@houseofmomma.com
+   # .env.local (optioneel - voor e-mail functionaliteit)
+   # RESEND_API_KEY=your_resend_api_key_here
+   # CONTACT_TO=your_email@example.com
+   # CONTACT_FROM=noreply@houseofmomma.com
    ```
 
 5. **Start de development server**
@@ -61,9 +61,9 @@ Een productie-klare marketing/booking site voor House of Momma (platform voor sp
    - Klik op "New Project"
    - Import je GitHub repository
 
-3. **Configureer environment variabelen in Vercel**
+3. **Configureer environment variabelen in Vercel (optioneel)**
    - Ga naar Project Settings > Environment Variables
-   - Voeg de volgende variabelen toe:
+   - Voeg de volgende variabelen toe (voor toekomstige e-mail functionaliteit):
      - `RESEND_API_KEY`
      - `CONTACT_TO`
      - `CONTACT_FROM`
@@ -123,13 +123,14 @@ Plaats nieuwe afbeeldingen in de `public/` directory:
 - `hero.jpg` - Hero achtergrond
 - `trip-[name].jpg` - Trip afbeeldingen
 
-## E-mail Configuratie
+## E-mail Configuratie (Toekomstig)
 
-De website gebruikt Resend voor e-mailverzending. Om dit te configureren:
+De website is voorbereid voor e-mailverzending met Resend. Om dit later te activeren:
 
 1. **Maak een Resend account** op [resend.com](https://resend.com)
 2. **Genereer een API key**
 3. **Voeg de API key toe aan je environment variabelen**
+4. **Uncomment de e-mail code in `/src/app/api/contact/route.ts`**
 
 ## Browser Ondersteuning
 
