@@ -6,11 +6,11 @@ export default function TripsGrid() {
     <section id="trips" className="py-20 bg-gray-50">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
-        <div className="text-center mb-16">
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-secondary mb-6">
+        <div className="text-center mb-20">
+          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-thin text-secondary mb-8 tracking-tight">
             Onze reizen
           </h2>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+          <p className="text-lg text-gray-600 max-w-2xl mx-auto font-light leading-relaxed">
             Ontdek onze exclusieve Fitcations in samenwerking met Primal. 
             Unieke locaties, professionele begeleiding en een onvergetelijke ervaring.
           </p>

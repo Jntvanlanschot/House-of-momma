@@ -13,45 +13,48 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/hero.jpg"
+          src="/hero.webp"
           alt="Sportieve Fitcations op exotische locaties"
           className="w-full h-full object-cover"
         />
         {/* Gradient Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-r from-black/60 via-black/40 to-black/60" />
+        <div className="absolute inset-0 bg-gradient-to-br from-black/50 via-black/30 to-black/60" />
       </div>
 
       {/* Content */}
       <div className="relative z-10 text-center text-white px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
         {/* Subbrand Badge */}
-        <div className="mb-6">
-          <span className="inline-block bg-white/20 backdrop-blur-sm text-sm font-medium px-4 py-2 rounded-full border border-white/30">
+        <div className="mb-8">
+          <span className="inline-block bg-white/10 backdrop-blur-md text-xs font-light px-6 py-3 rounded-full border border-white/20 tracking-wider uppercase">
             in collaboration with Primal
           </span>
         </div>
 
         {/* Main Headline */}
-        <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold leading-tight mb-6">
-          Sportieve Fitcations op{' '}
-          <span className="text-primary">exotische locaties</span>
+        <h1 className="text-5xl sm:text-6xl lg:text-7xl xl:text-8xl font-thin leading-[0.9] mb-8 tracking-tight">
+          <span className="block text-white/95">Sportieve</span>
+          <span className="block text-white font-light">Fitcations</span>
+          <span className="block text-white/90 text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-extralight mt-4">
+            op exotische locaties
+          </span>
         </h1>
 
         {/* Subtitle */}
-        <p className="text-xl sm:text-2xl lg:text-3xl font-light mb-12 text-white/90">
+        <p className="text-lg sm:text-xl lg:text-2xl font-extralight mb-16 text-white/80 tracking-wider">
           House of Momma × Primal
         </p>
 
         {/* CTA Buttons */}
-        <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+        <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
           <button
             onClick={() => scrollToSection('trips')}
-            className="bg-primary hover:bg-primary/90 text-white font-semibold px-8 py-4 rounded-full transition-all duration-300 transform hover:scale-105 focus-ring text-lg min-w-[200px]"
+            className="bg-white/10 backdrop-blur-md border border-white/30 text-white hover:bg-white/20 font-light px-10 py-4 rounded-full transition-all duration-500 transform hover:scale-105 focus-ring text-base tracking-wider min-w-[220px]"
           >
             Bekijk onze reizen
           </button>
           <button
             onClick={() => scrollToSection('contact')}
-            className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-secondary font-semibold px-8 py-4 rounded-full transition-all duration-300 transform hover:scale-105 focus-ring text-lg min-w-[200px]"
+            className="bg-transparent border border-white/40 text-white hover:bg-white/10 font-light px-10 py-4 rounded-full transition-all duration-500 transform hover:scale-105 focus-ring text-base tracking-wider min-w-[220px]"
           >
             Plan jouw trip
           </button>
